@@ -1,4 +1,4 @@
-# Package Lorempixum
+# Lorempixum
 
 Lorempixum is a golang package for generating stub images with the given sizes.
 
