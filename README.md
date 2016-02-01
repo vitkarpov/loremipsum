@@ -5,7 +5,7 @@ Lorempixum is a golang package for generating stub images with the given sizes.
 ## Install
 
 ```
-$ go get github.com/gorilla/mux
+$ go get github.com/vitkarpov/lorempixum
 ```
 
 ## Overview
